@@ -4,6 +4,4 @@ However, you are free to recompile by running: `npx tsc && npx webpack` (for dev
 
 I have this error:
 
-
-
-
+https://github.com/Iteraprocess/agGridSolid-Fail/blob/0be47814d5164ad152a8a6e1319c7b897c2ccbd7/ErrorImage.png
